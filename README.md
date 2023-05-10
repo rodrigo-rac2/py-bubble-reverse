@@ -1,2 +1,4 @@
 # py-bubble-reverse
-BubbleSort and ReverString in Python
+BubbleSort and Reverse String in Python
+
+Challenge for Nexla
